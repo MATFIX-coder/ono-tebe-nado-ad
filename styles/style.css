@@ -50,10 +50,6 @@ body {
 }
 
 .address {
-  font-style: inherit;
-}
-
-.address {
   max-width: 240px;
   font-size: 18px;
   font-style: normal;
